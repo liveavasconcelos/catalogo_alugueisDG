@@ -1,4 +1,4 @@
-# 📚 Catálogo de Jogos para Aluguel - Luderia DG
+# 📚 Catálogo de Jogos de Tabuleiro para Aluguel - Luderia DG
 
 Este projeto tem como objetivo centralizar e divulgar os jogos de tabuleiro disponíveis para aluguel na **Luderia DG**, um espaço com mais de 9 anos de história no universo lúdico.
 
